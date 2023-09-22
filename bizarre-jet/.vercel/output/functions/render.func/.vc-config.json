@@ -1,0 +1,5 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "mnt/d/virtual-environment/_dev/practice-astro/bizarre-jet/dist/entry.mjs",
+	"launcherType": "Nodejs"
+}
